@@ -3,11 +3,10 @@
 
 * [Form1.cs](./CS/Dashboard_CustomFilterExpression_Win/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_CustomFilterExpression_Win/Form1.vb))
 <!-- default file list end -->
-# How to filter an SQL query at runtime in the WinForms Viewer
+# How to Filter an SQL Query at Runtime
 
 
-The following example shows how to filter an SQL query at runtime using the <a href="https://documentation.devexpress.com/#Dashboard/DevExpressDashboardWinDashboardViewer_CustomFilterExpressiontopic">DashboardViewer.CustomFilterExpression</a> event. The <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressDataAccessCustomFilterExpressionEventArgs_TableNametopic">TableName</a> event parameter is used to check the name of the query that should be filtered. The <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressDataAccessCustomFilterExpressionEventArgs_FilterExpressiontopic">FilterExpression</a> property specifies the required filter criteria.
-
-<br/>
+This example shows how to handle the [DashboardViewer.CustomFilterExpression](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.CustomFilterExpression) event to filter an SQL query at runtime. The [TableName](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.CustomFilterExpressionEventArgs.TableName) event parameter is the query name. The [FilterExpression](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.CustomFilterExpressionEventArgs.FilterExpression) property specifies the filter criteria.
 
 
+![screenshot](/images/screenshot.png)

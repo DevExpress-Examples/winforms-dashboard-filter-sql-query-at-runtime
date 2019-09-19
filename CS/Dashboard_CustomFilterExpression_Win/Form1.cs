@@ -5,7 +5,6 @@ namespace Dashboard_CustomFilterExpression_Win {
     public partial class Form1 : DevExpress.XtraEditors.XtraForm {
         public Form1() {
             InitializeComponent();
-
             dashboardViewer1.LoadDashboard(@"..\..\Data\Dashboard.xml");
         }
 
