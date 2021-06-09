@@ -10,3 +10,8 @@ This example shows how to handle the [DashboardViewer.CustomFilterExpression](ht
 
 
 ![screenshot](/images/screenshot.png)
+
+## Documentation
+
+- [Filter Queries](https://docs.devexpress.com/Dashboard/115207)
+- [Providing Data](https://docs.devexpress.com/Dashboard/16914/)
