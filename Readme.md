@@ -20,7 +20,7 @@ This example shows how to handle the [DashboardViewer.CustomFilterExpression](ht
 - [Filter Queries](https://docs.devexpress.com/Dashboard/115207)
 - [Providing Data](https://docs.devexpress.com/Dashboard/16914/)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-filter-sql-query-at-runtime&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-filter-sql-query-at-runtime&~~~was_helpful=no)
 
